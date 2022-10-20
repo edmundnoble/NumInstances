@@ -33,4 +33,3 @@ Library
 
 -- This module used to be part of vector-space
 
- ghc-prof-options:    -prof -auto-all 
